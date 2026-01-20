@@ -1,6 +1,6 @@
 //your JS code here. If required.
 function functionName(){
-	alert(agruments.callee.name);
+	alert(arguments.callee.name);
 }
 
 functionName();
